@@ -1,0 +1,7 @@
+<div class="user-profile">
+    <h2>User Profile</h2>
+    <p><strong>Username:</strong> {{ username }}</p>
+    <p><strong>Last Seen:</strong> {{ lastSeenTime ? (lastSeenTime | date:'medium') : 'Not available' }}</p>
+    <button (click)="logout()" class="logout-button">Logout</button>
+  </div>
+  
