@@ -23,11 +23,7 @@ The Blog Task Application is a full-featured blogging platform built with Angula
 - **Profile Overview**: Displays username, last seen time based on the last post created, and other activity stats.
 - **Logout**: Users can log out from their profile page.
 
-### Smooth Scrolling
-- **Automatic Scrolling**: After saving a post or comment, the page smoothly scrolls to the newly added content.
 
-### Responsive Design
-- **Mobile-Friendly**: The platform adapts to various screen sizes.
 
 ## Installation
 ## Backend (Django)
