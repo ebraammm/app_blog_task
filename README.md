@@ -81,4 +81,5 @@ ng serve
 2. View your username and last seen time.
 3. Log out from the profile page.
 
+###- Posts are displayed with pagination, showing 10 posts 
 
